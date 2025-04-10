@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  color: #3e3e3e;
+  background-color: aquamarine;
+  transition: background 0.5s ease;
+}
+h1{
+  color: black;
+}
+input, button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+}
+
+input {
+  width: 200px;
+}
+
+button {
+  cursor: pointer;
+  background-color: #333;
+  color: white;
+}
+
+.weather-info img {
+  width: 60px;
+}
+
+.hourly {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 10px;
+  margin-top: 1rem;
+}
+
+.hour-block {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  padding: 10px;
+  width: 100px;
+}
+
+body.sunny {
+  background: linear-gradient(to top, #ffe259, #ffa751);
+}
+
+body.cloudy {
+  background: linear-gradient(to top, #d7d2cc, #304352);
+}
+
+body.rainy {
+  background: linear-gradient(to top, #4e54c8, #8f94fb);
+}
+
+body.snowy {
+  background: linear-gradient(to top, #e0eafc, #cfdef3);
+}
+
+body.foggy {
+  background: linear-gradient(to top, #757f9a, #d7dde8);
+}
