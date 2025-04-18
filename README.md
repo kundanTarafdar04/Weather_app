@@ -39,7 +39,6 @@ A responsive weather web application built using **HTML**, **CSS**, and **JavaSc
 ![Image_1](Screenshot/Image_1.png)
 ![Image_2](Screenshot/image_2.png)
 
-
 ---
 
 ## ✅ How to Run
@@ -68,5 +67,4 @@ A responsive weather web application built using **HTML**, **CSS**, and **JavaSc
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kundantarafdar04) or check out more on my [GitHub profile](https://github.com/kundanTarafdar04).
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kundan-tarafdar-9b53151b7/) or check out more on my [GitHub profile](https://github.com/kundanTarafdar04).
