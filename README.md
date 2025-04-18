@@ -67,4 +67,5 @@ A responsive weather web application built using **HTML**, **CSS**, and **JavaSc
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kundan-tarafdar-9b53151b7/) or check out more on my [GitHub profile](https://github.com/kundanTarafdar04).
+Feel free to connect with me on <a href="https://www.linkedin.com/in/kundan-tarafdar-9b53151b7/" target="_blank">LinkedIn</a>
+or check out more on my <a href="https://github.com/kundanTarafdar04" target="_blank">GitHub</a>.
