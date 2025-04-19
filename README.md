@@ -2,6 +2,9 @@
 
 A responsive weather web application built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/), and displays the current conditions along with an hourly forecast.
 
+
+> **Note:** "This weather app was built with guidance and help from ChatGPT while learning how to work with APIs, JavaScript, and UI design."
+
 > **Note:** This app works from local files but may not work when directly hosted from GitHub due to API key and CORS restrictions.
 
 ---
